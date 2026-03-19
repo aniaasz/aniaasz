@@ -34,5 +34,5 @@ https://github-profile-trophy.vercel.app/?username=aniaasz&theme=dracula&no-bg=t
 
 ## 🔭 Projects I Contribute To
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AGH-AstroDevelopers&repo=COSMOS&theme=omni&v=1)]((https://github.com/AGH-AstroDevelopers/COSMOS))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AGH-AstroDevelopers&repo=COSMOS&theme=omni&v=1)](https://github.com/AGH-AstroDevelopers/COSMOS).
 
