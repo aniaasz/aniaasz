@@ -1,6 +1,10 @@
-## Hi there 👋
+
 
 <!--
+
+## Hi there 👋
+
+
 **aniaasz/aniaasz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -27,9 +31,8 @@ https://github-profile-trophy.vercel.app/?username=aniaasz&theme=dracula&no-bg=t
 ![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aniaasz&theme=omni&v=1)
 
 
-<!--
-## Projects I Contribute To
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AGH-AstroDevelopers&repo=COSMOS&theme=omni)]((https://github.com/AGH-AstroDevelopers/COSMOS))
+## 🔭 Projects I Contribute To
 
--->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AGH-AstroDevelopers&repo=COSMOS&theme=omni&v=1)]((https://github.com/AGH-AstroDevelopers/COSMOS))
+
