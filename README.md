@@ -21,18 +21,43 @@ Here are some ideas to get you started:
 
 ## 📊 Coding Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aniaasz&show_icons=true&theme=omni) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aniaasz&layout=compact&theme=omni&size_weight=0.5&count_weight=0.5)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aniaasz&show_icons=true&theme=omni&v=2) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aniaasz&layout=compact&theme=omni&v=2&size_weight=0.5&count_weight=0.5)
 <!--
 https://github-profile-trophy.vercel.app/?username=aniaasz&theme=dracula&no-bg=true
 -->
 
 
 ## 💻 I'm currently spending my time on...
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aniaasz&theme=omni&v=1)
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aniaasz&theme=omni&v=2)
 
 
 
 ## 🔭 Projects I Contribute To
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AGH-AstroDevelopers&repo=COSMOS&theme=omni&v=1)](https://github.com/AGH-AstroDevelopers/COSMOS).
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AGH-AstroDevelopers&repo=COSMOS&theme=omni&v=2)](https://github.com/AGH-AstroDevelopers/COSMOS).
 
+
+
+
+
+
+
+<!--
+
+## 📊 Coding Stats
+
+![Anurag's GitHub stats](https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=aniaasz&show_icons=true&theme=omni&v=1) ![Top Langs](https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=aniaasz&layout=compact&theme=omni&v=1&size_weight=0.5&count_weight=0.5)
+
+https://github-profile-trophy.vercel.app/?username=aniaasz&theme=dracula&no-bg=true
+
+
+
+## 💻 I'm currently spending my time on...
+![Harlok's WakaTime stats](https://github-readme-stats-git-master-anuraghazra.vercel.app/api/wakatime?username=aniaasz&theme=omni&v=1)
+
+
+
+## 🔭 Projects I Contribute To
+
+[![Readme Card](https://github-readme-stats-git-master-anuraghazra.vercel.app/api/pin/?username=AGH-AstroDevelopers&repo=COSMOS&theme=omni&v=1)](https://github.com/AGH-AstroDevelopers/COSMOS).
+-->
